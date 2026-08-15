@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Gemini :: Link",
+  title: "Gemini :: Linkv2",
   description: "A chat interface for Gemini with a reactive Three.js tunnel.",
 };
 
